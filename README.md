@@ -1,1 +1,1 @@
-# Test
+# Tai vizitinės korteles repozitorija. 
